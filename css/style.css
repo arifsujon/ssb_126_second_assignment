@@ -1,0 +1,26 @@
+body{
+	background-color: #d6cece;
+	margin: 0;
+
+}
+table{
+	width: 80%;
+	margin: auto;
+	border-collapse: collapse;
+	margin-top: 25px;
+}
+tr{
+	background-color: #cdd3d8;
+}
+th {
+    background: #eee;
+    color: #69c183;
+    padding: 20px 0;
+}
+
+td {
+    padding: 5px;
+}
+.odd_tr{
+	background-color: #ccdbe2;
+}
